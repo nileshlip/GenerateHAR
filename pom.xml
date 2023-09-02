@@ -4,6 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>Selenium</groupId>
 	<artifactId>Automate_With_Selenium</artifactId>
+	<packaging>war</packaging
 	<version>0.0.1-SNAPSHOT</version>
 
 	<properties>
@@ -15,7 +16,6 @@
 
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
-			<packaging>war</packaging>
 			<artifactId>selenium-java</artifactId>
 			<version>3.141.59</version>
 		</dependency>
